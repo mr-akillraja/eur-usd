@@ -1,0 +1,189 @@
+{
+  "source_log": "logs/runs/unified_20261004_130251.log",
+  "checks": 1261,
+  "first_observed_ts": 1791099186.9306555,
+  "last_observed_ts": 1791100448.1397877,
+  "unique_qualifying_5s_candles": 25,
+  "signals": [
+    {
+      "direction": "BUY",
+      "entry_ts": 1791099585.0,
+      "first_observed_at": "2026-10-04T13:09:50.315182+05:30",
+      "entry_close": 1.35925
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791099590.0,
+      "first_observed_at": "2026-10-04T13:09:55.321641+05:30",
+      "entry_close": 1.35935
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791099620.0,
+      "first_observed_at": "2026-10-04T13:10:25.347482+05:30",
+      "entry_close": 1.35948
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791099810.0,
+      "first_observed_at": "2026-10-04T13:13:35.516824+05:30",
+      "entry_close": 1.35951
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791099815.0,
+      "first_observed_at": "2026-10-04T13:13:40.522464+05:30",
+      "entry_close": 1.35958
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791099820.0,
+      "first_observed_at": "2026-10-04T13:13:45.527409+05:30",
+      "entry_close": 1.35963
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791099825.0,
+      "first_observed_at": "2026-10-04T13:13:50.532822+05:30",
+      "entry_close": 1.35972
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791099845.0,
+      "first_observed_at": "2026-10-04T13:14:10.551536+05:30",
+      "entry_close": 1.35968
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791099945.0,
+      "first_observed_at": "2026-10-04T13:15:50.658509+05:30",
+      "entry_close": 1.35966
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791099950.0,
+      "first_observed_at": "2026-10-04T13:15:55.661789+05:30",
+      "entry_close": 1.35974
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791099985.0,
+      "first_observed_at": "2026-10-04T13:16:30.696162+05:30",
+      "entry_close": 1.35976
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791100015.0,
+      "first_observed_at": "2026-10-04T13:17:00.730337+05:30",
+      "entry_close": 1.35989
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791100020.0,
+      "first_observed_at": "2026-10-04T13:17:05.734186+05:30",
+      "entry_close": 1.35996
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791100025.0,
+      "first_observed_at": "2026-10-04T13:17:10.739535+05:30",
+      "entry_close": 1.36
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791100055.0,
+      "first_observed_at": "2026-10-04T13:17:40.771082+05:30",
+      "entry_close": 1.36005
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791100065.0,
+      "first_observed_at": "2026-10-04T13:17:50.780489+05:30",
+      "entry_close": 1.36007
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791100075.0,
+      "first_observed_at": "2026-10-04T13:18:00.787881+05:30",
+      "entry_close": 1.36005
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791100115.0,
+      "first_observed_at": "2026-10-04T13:18:40.829691+05:30",
+      "entry_close": 1.36007
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791100120.0,
+      "first_observed_at": "2026-10-04T13:18:45.832218+05:30",
+      "entry_close": 1.36013
+    },
+    {
+      "direction": "SELL",
+      "entry_ts": 1791100305.0,
+      "first_observed_at": "2026-10-04T13:21:50.001433+05:30",
+      "entry_close": 1.3596
+    },
+    {
+      "direction": "SELL",
+      "entry_ts": 1791100310.0,
+      "first_observed_at": "2026-10-04T13:21:55.005758+05:30",
+      "entry_close": 1.35956
+    },
+    {
+      "direction": "SELL",
+      "entry_ts": 1791100325.0,
+      "first_observed_at": "2026-10-04T13:22:10.019924+05:30",
+      "entry_close": 1.3596
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791100420.0,
+      "first_observed_at": "2026-10-04T13:23:45.117531+05:30",
+      "entry_close": 1.36003
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791100435.0,
+      "first_observed_at": "2026-10-04T13:24:00.132442+05:30",
+      "entry_close": 1.36004
+    },
+    {
+      "direction": "BUY",
+      "entry_ts": 1791100440.0,
+      "first_observed_at": "2026-10-04T13:24:05.137171+05:30",
+      "entry_close": 1.36013
+    }
+  ],
+  "failure_counts_per_poll": {
+    "BUY": {
+      "insufficient_closed_candles": 323,
+      "15s_close_vs_ema9": 389,
+      "10s_close_vs_ema9": 389,
+      "5s_directional_body": 489,
+      "5s_close_breaks_previous_candle": 579,
+      "5s_rsi14_band": 374,
+      "5s_rsi14_direction": 454,
+      "15s_ema9_slope_3_candles": 359,
+      "5s_confirmation_range": 100,
+      "10s_ema9_vs_ema21": 179,
+      "15s_ema9_vs_ema21": 89
+    },
+    "SELL": {
+      "insufficient_closed_candles": 323,
+      "15s_ema9_vs_ema21": 849,
+      "15s_ema9_slope_3_candles": 579,
+      "10s_ema9_vs_ema21": 759,
+      "5s_directional_body": 553,
+      "5s_close_breaks_previous_candle": 659,
+      "5s_rsi14_band": 589,
+      "5s_rsi14_direction": 534,
+      "15s_close_vs_ema9": 549,
+      "10s_close_vs_ema9": 549,
+      "5s_confirmation_range": 100
+    }
+  },
+  "orders_placed": 0,
+  "note": "Offline signal replay only; no broker orders or profitability evaluation."
+}

@@ -1,0 +1,61 @@
+{
+  "reason": "Remove four synthetic records written by two validation runs of the unisolated training-risk test",
+  "test": "tests/test_risk_journal.py::test_training_mode_keeps_demo_guard_and_concurrency_cap",
+  "backup": "backups/trade_journal_before_test_cleanup_20261005.csv",
+  "journal": "logs/trade_journal.csv",
+  "removed_rows": [
+    {
+      "timestamp": "2026-10-05T10:29:39.826595",
+      "asset": "EUR/USD OTC",
+      "mode": "ftt",
+      "signal": "BUY",
+      "confidence": "0.8000",
+      "amount": "25.0",
+      "result": "PENDING",
+      "pnl": "0.0",
+      "state_key": "",
+      "settled_at": ""
+    },
+    {
+      "timestamp": "2026-10-05T10:29:40.841454",
+      "asset": "EUR/USD OTC",
+      "mode": "ftt",
+      "signal": "SELL",
+      "confidence": "0.8000",
+      "amount": "25.0",
+      "result": "PENDING",
+      "pnl": "0.0",
+      "state_key": "",
+      "settled_at": ""
+    },
+    {
+      "timestamp": "2026-10-05T10:32:55.028463",
+      "asset": "EUR/USD OTC",
+      "mode": "ftt",
+      "signal": "BUY",
+      "confidence": "0.8000",
+      "amount": "25.0",
+      "result": "PENDING",
+      "pnl": "0.0",
+      "state_key": "",
+      "settled_at": ""
+    },
+    {
+      "timestamp": "2026-10-05T10:32:56.044077",
+      "asset": "EUR/USD OTC",
+      "mode": "ftt",
+      "signal": "SELL",
+      "confidence": "0.8000",
+      "amount": "25.0",
+      "result": "PENDING",
+      "pnl": "0.0",
+      "state_key": "",
+      "settled_at": ""
+    }
+  ],
+  "before_sha256": "748f6ce6435b4d83d999f4ac6a66ad919c842d8cc7d85bd616470d996586f3e7",
+  "after_sha256": "ee1f0d68a1557bd5fac2f5d88a455417da6c25889dc1cffbe1037cc8d6c3ccbb",
+  "retained_rows": 22,
+  "retained_records_byte_identical": true,
+  "status": "applied"
+}

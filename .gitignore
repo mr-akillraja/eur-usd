@@ -1,0 +1,11 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.env
+.env.*
+!.env.example
+logs/
+backups/
+session_state.json
